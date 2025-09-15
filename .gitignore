@@ -1,1 +1,5 @@
 product_env/
+db.sqlite3
+*.cpython-312.pyc
+*.pyc
+__pycache__/
